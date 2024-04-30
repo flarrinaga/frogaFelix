@@ -4,7 +4,7 @@ public class App {
     public static void main(String[] args) {
         System.out.println("Hello, Maven Java Project!");
         System.out.println("Factorial of 5 is: " + factorial(5));
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < 50; i++) {
             System.out.println("Factorial of " + i + " is: " + factorial(i));
         }
     }
